@@ -1,0 +1,41 @@
+text,category
+"My payment was charged twice for the same order",Billing
+"I was charged more money than the invoice amount",Billing
+"The payment failed but money was deducted from my account",Billing
+"I don't understand this charge on my credit card",Billing
+"I was charged an extra fee during checkout",Billing
+"My package has not arrived yet",Delivery
+"My order is delayed by several days",Delivery
+"The tracking information has not been updated",Delivery
+"My delivery was supposed to arrive yesterday",Delivery
+"I have been waiting for my package for a week",Delivery
+"The product arrived damaged",Product
+"The product I received is defective",Product
+"The item stopped working after two days",Product
+"The product quality is very poor",Product
+"I received the wrong product",Product
+"I cannot log into my account",Account
+"My account has been locked",Account
+"I forgot my account password and cannot reset it",Account
+"My account information is incorrect",Account
+"I am unable to access my profile",Account
+"The application keeps crashing",Technical
+"The website is not loading",Technical
+"The app shows an error whenever I try to pay",Technical
+"I cannot upload my documents",Technical
+"The website is extremely slow",Technical
+"I want to request a refund",Refund
+"I have not received my refund yet",Refund
+"Please return my money for this order",Refund
+"I cancelled my order but haven't received the refund",Refund
+"I need help getting my refund",Refund
+"Customer support has not responded to me",Service
+"The customer service agent was very rude",Service
+"I have contacted support several times with no response",Service
+"The support team did not solve my problem",Service
+"I am unhappy with the customer service",Service
+"Something is wrong with my order",Other
+"I need help with an issue",Other
+"I have a problem with my purchase",Other
+"I am not satisfied with my experience",Other
+"I need assistance with my account and order",Other

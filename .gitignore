@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+complaints.db
+.DS_Store
+.streamlit/
